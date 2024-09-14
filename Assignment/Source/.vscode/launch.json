@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ADMIN/AppData/Local/Temp/4b410040-dd57-4a98-98ed-bf18dc04d935_preshed-2.0.1.tar.gz.935/preshed-2.0.1/preshed",
+      "program": "c:/Users/ADMIN/AppData/Local/Temp/4b410040-dd57-4a98-98ed-bf18dc04d935_preshed-2.0.1.tar.gz.935/preshed-2.0.1/preshed/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
